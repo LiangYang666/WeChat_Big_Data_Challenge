@@ -62,7 +62,7 @@
 |:---- |:----  |:----  |:----  |:----  |:----|
 | 离线  | 0.657003 |0.626822 |0.633864  |0.735366 |0.690416 | 
 | 在线  | 0.607908| 0.577496 |0.588645  |0.682383  |0.638398 | 
-   
+
 ## **7. 相关文献**
 * Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st workshop on deep learning for recommender systems. 2016.
 
